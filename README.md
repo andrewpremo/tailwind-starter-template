@@ -2,8 +2,6 @@
 Markup template for tailwindcss
 
 
-Step #1 npm init
+Step #1 npm install
 
-Step #2 npm install
-
-Step #3 npm run bulid-css
+Step #2 npm run bulid-css
